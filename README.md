@@ -2,7 +2,12 @@
 
 # SIGINT
 wiki:
+
+Knowledge:
 https://www.nsa.gov/Signals-Intelligence/Overview/
+
+History:
+- [Colossus - The Greatest Secret in the History of Computing](https://youtu.be/g2tMcMQqSbA)
 
 # Challenge, Test, Goal:
 ## Crack Police Communications
